@@ -49,4 +49,4 @@ System Info    : psutil
 
 ## Author
 
-**Gummadi Likith**
+[Gummadi Likith](https://github.com/glikith)
