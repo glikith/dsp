@@ -43,7 +43,7 @@ System Info    : psutil
 
 ## How it works
 
-**Cycle detection** runs a DFS on the directed RAG, a cycle means circular wait, which is deadlock by definition. The **ML predictor** is trained on simulated state features (allocation ratios, wait counts, resource contention) to flag high-risk states before the cycle actually forms.
+**Cycle detection** runs a DFS on the directed RAG, a cycle means circular wait, which is deadlock by definition. The **ML predictor** is trained on simulated state features (allocation ratios, wait counts, resource contention) to flag high-risk states before the cycle actually forms
 
 ---
 
